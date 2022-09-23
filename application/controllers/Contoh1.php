@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
         echo"Nama saya Ervan Ariyulianto
         Saya tinggal di daerah Wonogiri
         olah raga yang saya sukai adalah
-        Bolavoli";
+        SEPAK PALA ";
     }
 }
