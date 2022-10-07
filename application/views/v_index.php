@@ -48,7 +48,7 @@ menjadi mudah dan pengembangan aplikasi dapat di lakukan dengan
 cepat dan terstruktur.</p>
         </section>
         <footer>
-            <a href="http://www.RentalBuku.com">RentalBuku</a>
+            <a href="https://www.RentalBuku.com">RentalBuku</a>
         </footer>
     </div>
 </body>
