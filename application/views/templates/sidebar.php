@@ -19,6 +19,11 @@
 	<!-- Nav Item - Dashboard -->
 	<li class="nav-item active">
 		<!-- Nav Item - Dashboard -->
+		<li class="nav-item">
+		<a class="nav-link pb-0" href="<?= base_url('buku/kategori') ?>">
+			<i class="fa fa-fw fa book"></i>
+			<span>Kategori</span></a>
+	</li>
 	<li class="nav-item">
 		<a class="nav-link pb-0" href="<?= base_url('buku') ?>">
 			<i class="fa fa-fw fa book"></i>
